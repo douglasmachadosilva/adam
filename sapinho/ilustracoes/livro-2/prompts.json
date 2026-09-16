@@ -1,0 +1,400 @@
+{
+  "tool": "image_gen (built-in)",
+  "reference": "ilustracoes/capa-livro-2.jpg",
+  "basePrompt": "Create ONE new full-bleed LANDSCAPE 3:2 children's picture-book illustration (1536x1024 if possible), not a cover, not a collage. Use the supplied cover only as a CHARACTER AND ART STYLE REFERENCE. Keep Froguinho consistently leaf-green, large round amber-gold eyes, cream throat/belly, tiny round body, no clothes, no human ears. Handmade gouache and colored-pencil textures, rich greens and teal, warm honey light, polished charming storybook art for age 7. Pedra is always a smooth round gray natural rock, NEVER a face, eyes, mouth, arms or legs. A recurring cricket is brown with a crooked blue necktie; the friend rã is a slightly larger olive-brown frog; perereca is a slender bright-green tree frog with toe pads; snail has a cinnamon spiral shell. Include ONLY characters needed by the passage. Represent the reader as first-person point of view or a child's hand and notebook, not an identifiable portrait or full human character; medium warm-brown hands and blue sleeves if visible. Make this image specifically match the supplied passage; choose its most meaningful or funny moment. No text, no captions, no speech bubbles, no logos, no watermarks. Notebook/sign drawings can be pictures/icons but no lettering. No release, farewell, luggage or leaving-home imagery. Keep main scene within central 85%, clear readable silhouettes, not crowded. Compose as a new scene, never duplicate the cover.",
+  "pages": [
+    {
+      "chapter": 1,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c01-p01.jpg",
+      "scene": "Indoors at night: Froguinho suddenly still on his gray rock beside an open window, eyes listening toward rustling leaves outside. Cozy child's desk, shallow clear oval aquatic container with large accessible rock above water, warm bedside lamp.",
+      "passage": "Froguinho estava em cima da Pedra.\n\nNão era uma pedra qualquer.\n\nEra a Pedra.\n\nCom letra maiúscula, segundo seu morador.\n\n{nome} observava o sapinho quando um som entrou pela janela.\n\nCOAX!\n\nFroguinho ficou imóvel.\n\n— Você ouviu?\n\n— Ouvi.\n\n— Alguém chamou meu nome.\n\n— Ninguém falou “Froguinho”.\n\n— Falaram em sapês."
+    },
+    {
+      "chapter": 1,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c01-p02.jpg",
+      "scene": "Indoor close shot: frog tilts his head toward gray rock as if asking who made the sound; a small chair near the desk, doorway and wardrobe blurred behind, quiet window.",
+      "passage": "{nome} aproximou uma cadeira.\n\n— E o que disseram?\n\nFroguinho pensou.\n\n— Talvez “boa noite”. Talvez “tem mosquito”. Estou começando no idioma.\n\nO som veio de novo.\n\nCOAX!\n\nEra mais distante do que os barulhos do quarto.\n\nNão vinha do armário.\n\nNem do corredor.\n\n{nome} olhou para a Pedra.\n\n— Foi você?\n\nA Pedra permaneceu em silêncio."
+    },
+    {
+      "chapter": 1,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c01-p03.jpg",
+      "scene": "POV child's hand opens an investigation notebook beside the gray rock and amused frog, sketching a small magnifier and sound-wave pictograms.",
+      "passage": "— Ela não fala antes das oito — explicou Froguinho.\n\n— E depois das oito?\n\n— Também não.\n\nOs dois riram.\n\nLá fora, alguma criatura tinha feito um som.\n\nQual criatura?\n\nOnde estava?\n\nPor que fazia aquilo?\n\n{nome} pegou o caderno.\n\nNa primeira linha, escreveu:\n\n**CASO DO COAX MISTERIOSO.**\n\nFroguinho pediu um detalhe:"
+    },
+    {
+      "chapter": 1,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c01-p04.jpg",
+      "scene": "Close up notebook drawing of the gray rock; real silent rock and small frog visible behind; child pencil captured in act of drawing this very solid witness.",
+      "passage": "— Coloque que temos uma testemunha muito sólida.\n\n{nome} desenhou a Pedra.\n\nEla não se mexeu para a fotografia imaginária.\n\nExcelente testemunha."
+    },
+    {
+      "chapter": 2,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c02-p01.jpg",
+      "scene": "Frog proudly supervises a hand-drawn detective sign with an ear and magnifier pictograms, a child hand pins it near familiar indoor desk. No text.",
+      "passage": "— Precisamos de um departamento — anunciou Froguinho.\n\n— Para quê?\n\n— Para investigar.\n\n— Podemos investigar sem departamento.\n\nFroguinho pareceu ofendido.\n\n— E onde penduramos a placa?\n\n{nome} escreveu numa folha:\n\n**DEPARTAMENTO DE ESCUTAÇÃO.**\n\n— Acho que essa palavra não existe.\n\n— Agora existe. Acabou de ganhar uma placa.\n\nO primeiro trabalho era separar os sons.\n\nDo corredor vinha:"
+    },
+    {
+      "chapter": 2,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c02-p02.jpg",
+      "scene": "Indoor listening scene focusing on a spoon resting on a drinking glass on a side table, corridor with a pair of walking feet partly seen, window leaves moving, frog alert on his rock foreground. One continuous scene not panels.",
+      "passage": "TÓC. TÓC.\n\n— Sapo de sapato? — sugeriu Froguinho.\n\nEra alguém andando.\n\nDa cozinha vinha:\n\nTIN-LIN!\n\n— Sapo de colher?\n\nEra uma colher tocando num copo.\n\nDa janela veio:\n\nFUUUUSH.\n\n{nome} olhou as folhas se mexendo.\n\n— Esse é o vento.\n\nFroguinho anotou com uma pata imaginária."
+    },
+    {
+      "chapter": 2,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c02-p03.jpg",
+      "scene": "Quiet indoor scene: frog surprised by a faint cricket sound outside while child's hand sketches an ear shape in notebook.",
+      "passage": "— O vento é bastante conversador.\n\nEntão os dois ficaram quietos por um momento.\n\nSem imitar.\n\nSem bater.\n\nSó ouvindo.\n\nOuvir daquele jeito era diferente. Alguns sons pequenos apareciam quando os grandes faziam uma pausa.\n\nCRI-CRI.\n\nFroguinho arregalou os olhos.\n\n— Outro suspeito!\n\n{nome} desenhou uma orelha no caderno.\n\nFroguinho examinou.\n\n— Parece um macarrão."
+    },
+    {
+      "chapter": 2,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c02-p04.jpg",
+      "scene": "Comical indoor serious frog waiting for silent gray rock to respond, notebook open with two ear doodles like macaroni, child hand indicating the flawed test.",
+      "passage": "{nome} desenhou outra.\n\nO Departamento de Escutação agora tinha dois macarrões oficiais.\n\nFroguinho sugeriu testar a Pedra.\n\n— Se estiver ouvindo, não faça nada.\n\nA Pedra não fez nada.\n\n— Funcionou!\n\n{nome} balançou a cabeça.\n\n— Mas ela também ficaria parada se não estivesse ouvindo.\n\nO sapinho pensou.\n\n— Precisamos melhorar nosso teste.\n\nEra uma descoberta importante para um departamento que acabara de nascer."
+    },
+    {
+      "chapter": 3,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c03-p01.jpg",
+      "scene": "Dream pond under moonlight: frog gently intercepts a brown cricket struggling with an oversized crooked blue necktie on a leafy path. Froguinho not on rock this time.",
+      "passage": "Naquela noite, {nome} sonhou.\n\nEstava do tamanho de uma folha pequena, ao lado do Froguinho.\n\nOs dois tinham chegado a uma lagoa feita de luar, plantas e caminhos curiosos.\n\nUm grilo passou carregando uma gravata maior que ele.\n\n— Com licença. Estou atrasado para o ensaio.\n\nFroguinho saltou na frente.\n\n— Pare! Departamento de Escutação!\n\nO grilo parou.\n\n— Isso existe?\n\n— Temos uma placa."
+    },
+    {
+      "chapter": 3,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c03-p02.jpg",
+      "scene": "Dream close view of brown cricket rubbing his two forewings to chirp, blue tie askew; small Froguinho watches fascinated. Scientifically plausible wings, no violin.",
+      "passage": "{nome} perguntou:\n\n— Foi você que fez COAX?\n\n— Eu faço CRI-CRI.\n\nO grilo esfregou as asas e mostrou seu som.\n\nCRI-CRI!\n\nMuitos grilos produzem seu canto esfregando partes das asas. Não precisam de um violino do tamanho de uma ervilha.\n\nFroguinho olhou de perto.\n\n— Você leva o instrumento no corpo?\n\n— Muito prático. Nunca esqueço em casa.\n\n— E a gravata?"
+    },
+    {
+      "chapter": 3,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c03-p03.jpg",
+      "scene": "Dream reeds with a few forgotten blue neckties dangling like a shop; cricket adjusts his crooked tie while Froguinho looks amused. Moonlit pond.",
+      "passage": "— Essa eu esqueço.\n\nO grilo apontou para um caniço.\n\nLá estava outra gravata.\n\nE outra.\n\nA planta parecia uma loja.\n\n{nome} anotou a primeira descoberta: nem todo som noturno era de sapo.\n\nO grilo acenou.\n\n— Se ouvirem um coaxar, talvez seja um dos meus vizinhos anfíbios.\n\n— Endereço? — perguntou Froguinho.\n\n— Perto daqui.\n\n— Muito preciso.\n\nO grilo arrumou a gravata.\n\nContinuou torta.\n\nEle seguiu assim mesmo."
+    },
+    {
+      "chapter": 4,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c04-p01.jpg",
+      "scene": "Dream low-angle frog underneath a huge green leaf catching a falling raindrop on top of his head, comically surprised, luminous droplets.",
+      "passage": "No sonho, {nome} e Froguinho caminharam até uma folha enorme.\n\nPLOC.\n\nUma gotinha caiu na cabeça do sapinho.\n\nFroguinho olhou para cima.\n\n— Quem ligou o chuveiro?\n\nPLOC.\n\nOutra gotinha.\n\n{nome} viu pequenas gotas brilhando na folha.\n\n— Olha! Tem água aqui.\n\nFroguinho se abrigou embaixo.\n\n— Excelente teto. Um pouco pinguento.\n\nA sombra ali era fresca."
+    },
+    {
+      "chapter": 4,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c04-p02.jpg",
+      "scene": "Dream shaded leafy shelter, slow cinnamon-shell snail beside frog; child's hand in foreground studies veins on a fallen leaf, humid fresh atmosphere.",
+      "passage": "Um caracol passou bem devagar.\n\nTão devagar que Froguinho teve tempo de dizer “boa noite” duas vezes.\n\n— Muitos pequenos animais encontram abrigo entre as plantas — contou o caracol do sonho.\n\nAs folhas podiam oferecer sombra e proteção. E muitos anfíbios precisavam de lugares úmidos para sua pele funcionar bem.\n\n{nome} tocou apenas numa folha caída do sonho e observou suas nervuras.\n\nPareciam estradinhas."
+    },
+    {
+      "chapter": 4,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c04-p03.jpg",
+      "scene": "Dream snail slowly leaving under the giant dripping leaf; frog waves goodbye again. Notebook foreground shows a doodled leaf as a roof, no actual shower plumbing.",
+      "passage": "— Nunca tinha reparado nisso.\n\n— As folhas têm muitos detalhes — disse o caracol.\n\nFroguinho apontou para cima.\n\n— Inclusive vazamentos.\n\nPLOC!\n\nO caracol continuou sua viagem.\n\n— Boa noite de novo! — disse Froguinho.\n\n— Ainda sou o mesmo caracol.\n\n— Eu sei. Mas você passou por aqui há bastante tempo.\n\n{nome} riu e desenhou uma folha com telhado.\n\nSem instalar chuveiro."
+    },
+    {
+      "chapter": 5,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c05-p01.jpg",
+      "scene": "Dream funny miniature sporting event in a pond clearing: same rock at the start with olive-brown rã, small frog and cricket announcer holding a twig microphone. Banner with a rock and trophy pictogram, no lettering, no actual taxi.",
+      "passage": "De repente, apareceu uma faixa entre dois galhos.\n\n**GRANDE PRÊMIO DOS ANFÍBIOS — CATEGORIA IMÓVEL.**\n\nA Pedra estava inscrita.\n\n— Como ela chegou aqui? — perguntou {nome}.\n\n— É um sonho — respondeu Froguinho. — Ela veio de táxi imaginário.\n\nO grilo de gravata torta pegou o microfone, que era um graveto.\n\n— Competidores, em suas posições!\n\nUma rã se ajeitou."
+    },
+    {
+      "chapter": 5,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c05-p02.jpg",
+      "scene": "Dream competition: olive-brown rã scratching nose, perereca on a leaf turning toward a tiny insect, Froguinho laughing, the gray rock utterly motionless. Clear humorous grouping.",
+      "passage": "Uma perereca se agarrou numa folha.\n\nA Pedra permaneceu pedra.\n\n— PREPARAR… APONTAR… FICAR!\n\nTodo mundo ficou parado.\n\nPor dois segundos.\n\nA rã coçou o nariz.\n\nA perereca virou a cabeça para olhar um inseto.\n\nFroguinho caiu na gargalhada.\n\nA Pedra continuou imóvel.\n\n— Temos uma campeã! — anunciou o grilo.\n\n{nome} bateu palmas.\n\nA perereca levantou um dedo."
+    },
+    {
+      "chapter": 5,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c05-p03.jpg",
+      "scene": "Dream cricket studies a leaf with a bite missing while a golden medal hangs around the plain rock, frog delighted; perereca gestures toward rock.",
+      "passage": "— Só uma coisa. Pedra não é anfíbio.\n\nSilêncio.\n\nO grilo examinou o regulamento.\n\nEstava escrito numa folha mordida.\n\nJustamente a parte importante tinha sido comida.\n\n— Criamos uma categoria especial — decidiu ele. — Pedras convidadas.\n\nA Pedra ganhou uma medalha.\n\nFroguinho cochichou:\n\n— Treinou a vida inteira.\n\nDepois da brincadeira, uma rã ficou quietinha entre folhas.\n\n{nome} quase não a enxergou."
+    },
+    {
+      "chapter": 5,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c05-p04.jpg",
+      "scene": "Dream interview of rock champion: cricket holding twig microphone toward unchanging rock; amused Froguinho beside it, low podium sketched in foreground notebook.",
+      "passage": "Ficar parado também podia ajudar um animal a passar despercebido.\n\nA Pedra já tinha percebido isso.\n\nOu não.\n\nEra difícil entrevistar a campeã.\n\nO grilo tentou mesmo assim.\n\n— Como se sente depois dessa vitória?\n\nSilêncio.\n\n— Qual foi sua maior dificuldade?\n\nSilêncio.\n\n— E seus planos para amanhã?\n\nFroguinho respondeu pela competidora:\n\n— Continuar onde está.\n\nO narrador anotou tudo.\n\n{nome} desenhou um pódio bem baixinho. Não queria que a campeã precisasse subir escadas."
+    },
+    {
+      "chapter": 6,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c06-p01.jpg",
+      "scene": "Dream hide-and-seek: close green leaf where just a tree frog's eye and toe peek out; Froguinho looking carefully from lower corner. Tree frog should be camouflaged, not invisible.",
+      "passage": "— Agora vamos brincar de procurar detalhes — propôs a perereca.\n\n{nome} olhou para a folha onde ela estava.\n\nNão havia ninguém.\n\n— Você sumiu!\n\n— Estou aqui.\n\n— Aqui onde?\n\n— No lugar onde eu estou.\n\nFroguinho suspirou.\n\n— Outra excelente informação para o departamento.\n\n{nome} olhou com mais atenção.\n\nViu uma pontinha de dedo.\n\nDepois um olho."
+    },
+    {
+      "chapter": 6,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c06-p02.jpg",
+      "scene": "Dream camouflaged slender tree frog revealed on matching leaf; Froguinho sitting visibly on gray rock shutting his own eyes as if invisible. Humorous contrast.",
+      "passage": "Depois a perereca inteira, verdinha perto da folha verde.\n\n— Achei!\n\n— Minha cor ajuda a me misturar com o lugar — explicou ela.\n\nAquilo se chamava camuflagem.\n\nNem sempre era ficar invisível. Às vezes, era apenas ser difícil de perceber.\n\nFroguinho resolveu tentar.\n\nSentou em cima da Pedra.\n\n— Pronto. Desapareci.\n\n— Estou vendo você — disse {nome}.\n\nFroguinho fechou os olhos."
+    },
+    {
+      "chapter": 6,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c06-p03.jpg",
+      "scene": "Dream Froguinho winks one eye open while sitting entirely visible on rock; tree frog laughs on leaf nearby; notebook at lower edge has leaf sketches.",
+      "passage": "— E agora?\n\n— Agora estou vendo você de olhos fechados.\n\nA perereca riu tanto que quase perdeu o equilíbrio.\n\n{nome} anotou outra pista: um lugar podia ter mais moradores do que parecia.\n\nEra preciso observar com calma.\n\n— Podemos olhar sem cutucar ninguém — acrescentou a perereca.\n\nFroguinho abriu um olho.\n\n— Inclusive a mim, que ainda estou invisível.\n\nNinguém discutiu.\n\nMas todo mundo continuou vendo."
+    },
+    {
+      "chapter": 7,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c07-p01.jpg",
+      "scene": "Dream close frog face following a small fly zigzag overhead, eyes intent and hungry, olive-brown friend nearby. No insect capture, no grossness, no restaurant building.",
+      "passage": "BZZZZZ.\n\nUma mosquinha cruzou o sonho.\n\nFroguinho acompanhou com os olhos.\n\nPara a esquerda.\n\nPara a direita.\n\nPara a esquerda.\n\n— Você está investigando? — perguntou {nome}.\n\n— Profundamente.\n\nA rã da competição apareceu.\n\n— Muitos sapos adultos comem insetos e outros bichinhos pequenos.\n\nFroguinho fez uma cara importante.\n\n— Chamamos de restaurante voador."
+    },
+    {
+      "chapter": 7,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c07-p02.jpg",
+      "scene": "Dream beetle walking past in foreground, Froguinho and olive-brown frog observing; pond plants with a few insects and flowers around them suggest connected ecosystem, no literal strings or labels.",
+      "passage": "Um besouro passou andando.\n\n— E aquele? — perguntou {nome}.\n\n— Restaurante com entrega terrestre.\n\nA rã explicou que, na natureza, os seres vivos estavam ligados de muitos jeitos. Alguns comiam plantas. Outros comiam pequenos animais. Eles também podiam servir de alimento para outros seres.\n\n{nome} imaginou fios ligando os moradores da lagoa.\n\nNão eram fios de verdade."
+    },
+    {
+      "chapter": 7,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c07-p03.jpg",
+      "scene": "Dream frog inspecting flowers visited by tiny insects; a fly passes to one side, frog turns his head to follow it. Calm rich pond setting.",
+      "passage": "Era um jeito de pensar nas relações entre eles.\n\n— Então não é só uma coleção de bichinhos separados.\n\n— Isso — respondeu a rã.\n\nFroguinho examinou um ramo de flores.\n\n— E as flores?\n\n— Podem alimentar insetos que as visitam.\n\nO sapinho ficou impressionado.\n\nHavia muita coisa acontecendo ao mesmo tempo.\n\nBZZZZZ.\n\nA mosca voltou.\n\nFroguinho virou a cabeça.\n\n— Sua investigação mudou de direção — observou {nome}.\n\n— O restaurante também."
+    },
+    {
+      "chapter": 8,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c08-p01.jpg",
+      "scene": "Dream breeze bending reeds, dragonfly with clear wings on branch. Frog holds one hand above bare head pretending to hold imaginary hat; NO physical hat.",
+      "passage": "FUUUSH.\n\nO vento passou pela lagoa do sonho.\n\nAs folhas balançaram.\n\nOs caniços se curvaram.\n\nFroguinho segurou seu chapéu imaginário.\n\n— Ainda bem que não trouxe cabelo.\n\nUma libélula pousou num ramo.\n\n{nome} reparou em suas asas transparentes.\n\n— Você também faz COAX?\n\nA libélula olhou para Froguinho.\n\nDepois para {nome}.\n\n— Vocês perguntam isso para todo mundo?"
+    },
+    {
+      "chapter": 8,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c08-p02.jpg",
+      "scene": "Dream wind ripples on pond surface and swaying reeds, dragonfly taking flight, frog suddenly attentive at a distant sound. No written sound effect.",
+      "passage": "— Só durante o expediente — respondeu o sapinho.\n\nA libélula levantou voo.\n\nMais adiante, a água formava pequenas ondulações.\n\n{nome} percebeu que podia observar o vento mesmo sem enxergá-lo diretamente.\n\nAs plantas e a superfície da água mostravam sua passagem.\n\n— Uma pista de uma coisa que não vemos! — disse.\n\nFroguinho ficou impressionado.\n\nEntão ouviu:\n\nCOAX!\n\nO sapinho se endireitou."
+    },
+    {
+      "chapter": 8,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c08-p03.jpg",
+      "scene": "Dream notebook close-up containing child sketches of cricket, leaf, camouflaged tree frog and swaying reeds; Froguinho peeks over page toward pond.",
+      "passage": "— Esse não foi o vento.\n\n— Parece que veio de perto da água — disse {nome}.\n\nOs dois prestaram atenção.\n\nNada mais.\n\nO mistério continuava.\n\nMas o caderno já tinha um grilo, uma folha, uma perereca camuflada e uma planta dançando com o vento.\n\n— Nossa investigação está cheia — comentou {nome}.\n\nFroguinho concordou.\n\n— Ainda cabe um desenho de lanche?\n\nSempre cabia."
+    },
+    {
+      "chapter": 8,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c08-p04.jpg",
+      "scene": "Dream notebook map crowded with curving directional arrows resembling spaghetti; amused frog watches child's pencil add an arrow. No real plate of pasta.",
+      "passage": "{nome} resolveu marcar de onde o som parecia vir.\n\nDesenhou uma seta.\n\nDepois ouviu outro som e desenhou outra.\n\nO mapa começou a parecer um prato de espaguete.\n\n— Seu caderno está ficando delicioso — comentou Froguinho.\n\n— São direções!\n\n— Então prefiro a direção do jantar.\n\nMas o sapinho também prestou atenção. A próxima pista podia chegar de qualquer lado."
+    },
+    {
+      "chapter": 9,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c09-p01.jpg",
+      "scene": "Dream Froguinho pointing curiously to side of head with no external ears; friendly olive-brown rã close by amused, broad leaf backdrop.",
+      "passage": "Uma rã surgiu perto de uma folha larga.\n\nFroguinho apontou para os lados da própria cabeça.\n\n— Pergunta importante: onde estão minhas orelhas?\n\n{nome} se inclinou.\n\n— Você não tem orelhas como as minhas.\n\n— Eu perdi no campeonato?\n\nA rã riu."
+    },
+    {
+      "chapter": 9,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c09-p02.jpg",
+      "scene": "Educational but warm storybook close side profile of olive-brown rã, clear natural small circular tympanum immediately behind eye. Frog's skin and eye accurate. Froguinho watches from corner. No labels, no human ears, no exposed anatomy.",
+      "passage": "— Nós não temos essas orelhas que ficam para fora. Em muitos sapos e rãs, dá para ver uma membrana arredondada atrás dos olhos. É o tímpano, que participa da audição.\n\n{nome} olhou a rã com cuidado.\n\nSem tocar.\n\n— Então você pode ouvir sem ter orelhas de gente.\n\n— Posso.\n\nFroguinho pensou por um momento."
+    },
+    {
+      "chapter": 9,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c09-p03.jpg",
+      "scene": "Dream olive-brown rã turns head listening while a child's hand sketches her in notebook foreground; Froguinho watching, pond softly blurred.",
+      "passage": "— Ótimo. Porque eu não saberia onde apoiar os óculos.\n\nA rã virou a cabeça.\n\nLonge dali, um canto começou e parou.\n\nEla parecia ter percebido antes dos visitantes.\n\nOs animais não precisavam sentir o mundo exatamente como as pessoas.\n\nPodiam enxergar, ouvir e perceber coisas de maneiras diferentes.\n\n{nome} desenhou uma rã no caderno.\n\nFroguinho pediu dois círculos enormes atrás dos olhos.\n\n— Assim?"
+    },
+    {
+      "chapter": 9,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c09-p04.jpg",
+      "scene": "Dream child notebook drawing of a frog with amusing two overlarge circular ear-membranes resembling headphones, real olive-brown rã amused beside sketch. Headphones ONLY in drawing, not on real frog.",
+      "passage": "— Agora parece que ela está usando fones.\n\nA rã observou o desenho.\n\n— Gostei. Mas minha música preferida não tem bateria.\n\nTinha lagoa."
+    },
+    {
+      "chapter": 10,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c10-p01.jpg",
+      "scene": "Dream pond at blue twilight: two small crickets chirping on separate reeds, leaves moving, several frogs at water's edge calling. Froguinho in foreground listening wide-eyed.",
+      "passage": "A luz do sonho ficou mais azulada.\n\nUm grilo começou:\n\nCRI-CRI.\n\nOutro respondeu mais longe.\n\nAs folhas fizeram:\n\nSHHHH.\n\nE, perto da água:\n\nCOAX.\n\nDepois veio um som diferente, mais curtinho.\n\nE outro, mais comprido.\n\nFroguinho abriu a boca.\n\n— Quantos rádios tem nessa lagoa?"
+    },
+    {
+      "chapter": 10,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c10-p02.jpg",
+      "scene": "Dream gentle chorus of different frogs spaced naturally along pond edge, differing postures as they call, small Froguinho listening; no radios or musical instruments.",
+      "passage": "— Nenhum — disse a rã.\n\nEla explicou que os cantos de sapos e rãs variam entre as espécies. Nem todos fazem o “coax” que aparece nos livros.\n\nE muitos cantam para se comunicar, por exemplo, para atrair parceiros.\n\n{nome} escutou de novo.\n\nAgora parecia uma conversa com muitas vozes.\n\n— Quem manda todo mundo começar?\n\nA rã olhou para os lados."
+    },
+    {
+      "chapter": 10,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c10-p03.jpg",
+      "scene": "Dream comical Froguinho conducting with a little twig while a raindrop falls from leaf nearby, cricket ignores conducting and keeps chirping. Dynamic funny pose.",
+      "passage": "— Ninguém precisa ser maestro.\n\nFroguinho ergueu um graveto.\n\n— Mesmo assim, gostaria de me candidatar.\n\nFez um movimento importante.\n\nO grilo continuou cantando no ritmo dele.\n\nFroguinho fez outro movimento.\n\nUma gota caiu.\n\nPLOC.\n\n— Excelente participação da gota — anunciou o novo maestro.\n\n{nome} riu.\n\nA lagoa não tocava para obedecer à batuta.\n\nCada som fazia parte de alguma vida acontecendo."
+    },
+    {
+      "chapter": 10,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c10-p04.jpg",
+      "scene": "Dream peaceful listening viewpoint: Froguinho rests twig, calm frogs, a cricket and moving leaves around pond. Child hand lower corner counts three on fingers, no full portrait.",
+      "passage": "Froguinho abaixou o graveto e ouviu.\n\nEssa era a melhor parte do concerto.\n\n{nome} teve uma ideia: fechar os olhos por alguns instantes e contar quantos tipos de som conseguia distinguir.\n\nUm.\n\nDois.\n\nTrês.\n\nQuando abriu os olhos, o lugar era o mesmo. Mas parecia cheio de detalhes novos.\n\n— Descobri coisas sem olhar! — disse.\n\nFroguinho concordou.\n\n— Seus macarrões oficiais estão trabalhando muito bem."
+    },
+    {
+      "chapter": 11,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c11-p01.jpg",
+      "scene": "Dream male olive-brown frog partially concealed by leaves singing with a single naturally inflated round throat vocal sac under chin, Froguinho points excitedly; anatomically sensible not a ball in mouth.",
+      "passage": "Froguinho apontou para uma rã parcialmente escondida entre plantas.\n\n— Suspeita encontrada!\n\nA rã produziu um canto.\n\nUma região perto de sua garganta se inflou como um pequeno balão e depois diminuiu.\n\n{nome} arregalou os olhos.\n\n— Você engoliu uma bola?\n\n— Não! — respondeu ela no sonho."
+    },
+    {
+      "chapter": 11,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c11-p02.jpg",
+      "scene": "Dream little Froguinho looking down at his own normal cream belly with one hand resting on it, sheepish hungry expression. Olive-brown frog nearby has throat sac. Distinguish belly from vocal sac, no giant bloated belly.",
+      "passage": "Muitos machos de sapos e rãs têm um saco vocal, uma estrutura que ajuda a espalhar o som do canto.\n\nFroguinho olhou para a própria barriga.\n\nGRRR.\n\nSilêncio.\n\n— O meu fez um barulho diferente.\n\n— Isso parece fome — disse {nome}.\n\n— Um coax de barriga. Muito raro."
+    },
+    {
+      "chapter": 11,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c11-p03.jpg",
+      "scene": "Dream observation at respectful distance: small frog and open notebook foreground, calling olive-brown frog across a small stretch of pond surrounded by leaves. No approach or handling.",
+      "passage": "A rã explicou que ouvir um canto era uma pista, mas descobrir exatamente quem cantava podia exigir prática e conhecimento.\n\n{nome} anotou:\n\n“Talvez um anfíbio. Precisamos escutar melhor.”\n\nFroguinho aprovou.\n\n— Detetives também podem escrever “ainda não sei”.\n\nA rã voltou a cantar.\n\nO som se espalhou pela água.\n\n{nome} não precisava chegar colado para ouvir.\n\nFicou observando de onde estava.\n\nFroguinho também.\n\nGRRR.\n\n— Seu instrumento está afinado? — perguntou {nome}.\n\n— Precisa de um mosquito."
+    },
+    {
+      "chapter": 12,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c12-p01.jpg",
+      "scene": "Morning indoors in familiar bedroom: frog back on gray rock in clear shallow container, closed notebook near bed, sunlight on desk, peaceful cheerful wake-up atmosphere.",
+      "passage": "{nome} acordou.\n\nO caderno estava perto da cama.\n\nFroguinho estava em seu cantinho, sobre a Pedra.\n\nEra manhã.\n\n— Sonhei com uma orquestra — contou {nome}.\n\n— Tinha lanche?\n\n— Você perguntou isso no sonho também.\n\nFroguinho pareceu satisfeito com a própria consistência.\n\nO sonho tinha dado várias ideias. Mas para saber quais animais viviam de verdade por perto, seria preciso observar, pesquisar e perguntar."
+    },
+    {
+      "chapter": 12,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c12-p02.jpg",
+      "scene": "Waking-world outdoor observing walk: first-person child and adult hands near open notebook, backyard leafy branch and small bird, wind in leaves. NO Froguinho outside; he remains home. Nature observed without capture.",
+      "passage": "Mais tarde, {nome} chamou uma pessoa adulta para escutar os sons perto de casa.\n\nNão foi uma expedição de pegar bichinhos.\n\nFoi uma expedição de prestar atenção.\n\n{nome} ouviu um pássaro, o vento e um som pequeno entre as plantas.\n\nNem tudo parecia com o sonho.\n\nAquilo tornava a investigação ainda mais interessante.\n\nDe volta ao quarto, contou tudo para Froguinho."
+    },
+    {
+      "chapter": 12,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c12-p03.jpg",
+      "scene": "Back indoors: child sketch of a normal leafy tree in notebook, Froguinho on his rock humorously studying the drawing. No actual tree in pajamas; can show a tiny crossed-out pajama doodle beside tree.",
+      "passage": "— Você não foi de pijama? — perguntou o sapinho.\n\n— Não.\n\n— Então o nome da expedição está errado.\n\n— Que nome?\n\n— Expedição do Pijama. Acabei de inventar.\n\n{nome} abriu o caderno.\n\nDesenhou uma árvore.\n\nFroguinho pediu um pijama para a árvore.\n\nFoi negado.\n\nA árvore já estava muito bem vestida de folhas.\n\nNo caderno, {nome} separou duas páginas."
+    },
+    {
+      "chapter": 12,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c12-p04.jpg",
+      "scene": "Indoor notebook spread contrasting imaginary cricket in blue tie with real leaf/wind sketches; a small frog sketch on each side; real Froguinho on rock peeking at both. No text.",
+      "passage": "Numa, escreveu “No sonho”. Na outra, “O que observei”.\n\nO grilo de gravata ficou na primeira.\n\nO vento nas folhas ficou nas duas.\n\n— E eu? — perguntou Froguinho.\n\n— Você aparece nas duas também.\n\n— Excelente. Duas participações. Devo receber dois lanches?\n\nO departamento recusou o pedido."
+    },
+    {
+      "chapter": 13,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c13-p01.jpg",
+      "scene": "Indoors on desk: nature observation checklist of leaf, shadow, ant and ear pictograms, with absurd small potato-in-hat doodle added in corner. Froguinho points proudly to silly potato drawing.",
+      "passage": "No dia seguinte, {nome} fez uma lista de coisas para observar com uma pessoa adulta.\n\nUma folha diferente.\n\nUma sombra que mudava de lugar.\n\nUm inseto andando.\n\nUm som difícil de reconhecer.\n\n— Falta uma coisa — disse Froguinho.\n\n— Qual?\n\n— Uma batata usando chapéu.\n\n— Isso não é uma pista da natureza.\n\n— Seria uma descoberta incrível."
+    },
+    {
+      "chapter": 13,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c13-p02.jpg",
+      "scene": "Waking-world close-up ant carrying a small seed on woodland path, child's notebook and adult hand at distance, leaves with tiny unidentified insect sheltered behind. No touching ants, NO Froguinho outdoors.",
+      "passage": "Durante o passeio, {nome} viu uma formiga carregando alguma coisa.\n\nAcompanhou com os olhos.\n\nNão fechou o caminho dela.\n\nNão precisou levá-la para lugar nenhum.\n\nFoi divertido descobrir o que acontecia quando ninguém interrompia a formiga.\n\nMais adiante, havia um pequeno animal escondido entre folhas.\n\n{nome} não sabia seu nome.\n\nAnotou o que conseguia ver e perguntou à pessoa adulta."
+    },
+    {
+      "chapter": 13,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c13-p03.jpg",
+      "scene": "Indoors: large magnifying-glass drawing in notebook with a little question-mark pictogram inside, tiny potato wearing hat in corner; Froguinho on rock amused. This is a drawing, not a living potato.",
+      "passage": "Observar também podia terminar numa pergunta nova.\n\nDepois, contou ao Froguinho:\n\n— Achei um monte de coisas sem pegar nenhuma.\n\nO sapinho olhou para a Pedra.\n\n— Ouviu? Você pode ser estudada sem perder seu horário de ficar parada.\n\nA Pedra continuou trabalhando normalmente.\n\nNo caderno, {nome} desenhou uma lupa enorme.\n\nDentro dela, colocou uma pergunta.\n\nE, bem pequenininha no canto, uma batata de chapéu.\n\nNinguém é de ferro."
+    },
+    {
+      "chapter": 14,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c14-p01.jpg",
+      "scene": "Indoor desk meeting: open notebook with sketches of cricket wings, sheltering leaf and ripples. Frog on familiar gray rock, child's pencil preparing report, warm afternoon light.",
+      "passage": "O Departamento de Escutação se reuniu outra vez.\n\nParticipantes: {nome}, Froguinho e Pedra.\n\nA Pedra chegou pontualmente.\n\nJá estava lá.\n\n{nome} abriu o caderno.\n\n— Descobrimos que grilos podem fazer som com as asas.\n\n— Instrumento embutido — resumiu Froguinho.\n\n— Que folhas podem ser abrigo.\n\n— Teto com risco de chuvisco.\n\n— Que a natureza tem muitos sons diferentes."
+    },
+    {
+      "chapter": 14,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c14-p02.jpg",
+      "scene": "Indoor thoughtful Froguinho examining open notebook full of sketches, hand turns page; rock prominently beside him, window with nature beyond. Quiet curious mood, not sad.",
+      "passage": "— E nenhum botão de volume.\n\n{nome} virou a página.\n\n— Mas ainda não sabemos quem fez aquele primeiro coax.\n\nFroguinho pensou.\n\nA investigação não tinha dado uma resposta completa.\n\nTinha dado outras coisas: detalhes, perguntas e vontade de escutar de novo.\n\n— Acho que isso conta — disse {nome}.\n\n— Conta muito. A Pedra nunca fez uma pergunta e olha o tamanho dela."
+    },
+    {
+      "chapter": 14,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c14-p03.jpg",
+      "scene": "Indoor close notebook illustration of a paper medal featuring an ear, plus tiny dot as rock's signature, a child hand drawing it. Froguinho looking proud beside same gray rock. No lettering.",
+      "passage": "{nome} escreveu um relatório.\n\n**Mistério ainda aberto. Muitas descobertas realizadas.**\n\nFroguinho pediu espaço para a assinatura da Pedra.\n\n{nome} desenhou um pontinho.\n\n— Essa é a assinatura?\n\n— Ela escreve pouco.\n\nO sapinho concordou.\n\nDepois recebeu uma medalha de papel desenhada no caderno:\n\n“Bom ouvinte, quando não está falando de comida.”\n\n— Esse título ficou comprido.\n\n— Posso diminuir.\n\n— Tire a parte da comida."
+    },
+    {
+      "chapter": 14,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c14-p04.jpg",
+      "scene": "Indoor notebook shows day sun and night moon above two pond sound sketch maps and a drawn clock beside rock sketch. Froguinho looks intrigued. No actual wristwatch on stone.",
+      "passage": "{nome} não tirou.\n\nPara terminar, os dois escolheram uma pergunta para o dia seguinte.\n\nSerá que os mesmos sons apareciam de manhã e à noite?\n\nNão precisavam adivinhar a resposta imediatamente.\n\nPodiam ouvir em momentos diferentes e comparar as anotações.\n\nFroguinho pediu um relógio para a Pedra.\n\n— Ela é ótima em esperar.\n\nO relógio foi desenhado no caderno.\n\nMarcava hora de investigar."
+    },
+    {
+      "chapter": 15,
+      "page": 1,
+      "file": "ilustracoes/livro-2/c15-p01.jpg",
+      "scene": "Nighttime cozy familiar bedroom: Froguinho content on gray rock in shallow container, open full notebook on desk, lamp glowing, child hand near notebook for bedtime hello. Window leaves beyond.",
+      "passage": "Naquela noite, {nome} foi dar boa-noite ao Froguinho.\n\nO sapinho estava na Pedra.\n\nNo mesmo cantinho conhecido.\n\nO caderno descansava ao lado, cheio de novas páginas.\n\n— Sabe o que eu mais gostei? — perguntou {nome}.\n\n— Da Pedra campeã?\n\n— Também. Mas gostei de perceber que tem muita coisa acontecendo lá fora, mesmo quando a gente não presta atenção.\n\nFroguinho olhou para a janela."
+    },
+    {
+      "chapter": 15,
+      "page": 2,
+      "file": "ilustracoes/livro-2/c15-p02.jpg",
+      "scene": "Night closer window view with gently moving leaves and small cricket outside; inside frog on rock listening together with POV reader. Warm light versus cool evening.",
+      "passage": "As folhas se mexeram de leve.\n\nFUUUSH.\n\nUm barulhinho apareceu e sumiu.\n\nCRI-CRI.\n\nE então:\n\nCOAX!\n\nOs dois se olharam.\n\n— Ele voltou — cochichou {nome}.\n\n— Ou nunca saiu de perto — respondeu Froguinho.\n\n— Amanhã podemos escutar de novo.\n\n— Com o departamento?\n\n— Com o departamento."
+    },
+    {
+      "chapter": 15,
+      "page": 3,
+      "file": "ilustracoes/livro-2/c15-p03.jpg",
+      "scene": "Night child hand closes notebook with one blank page visible, frog resting quietly on rock, lamp softly lit. Safe comforting bedtime, no leaving or farewell.",
+      "passage": "Froguinho se ajeitou.\n\n— Boa-noite, gigante.\n\n— Boa-noite, sapinho.\n\n{nome} fechou o caderno, mas deixou uma página em branco para a próxima descoberta.\n\nAquele mundo de sons não precisava ser entendido inteiro numa noite.\n\nPodia ser descoberto aos pouquinhos.\n\nUm detalhe.\n\nUma pergunta.\n\nUma risada.\n\nAntes de apagar a luz, {nome} olhou para a Pedra.\n\n— Boa-noite para você também.\n\nSilêncio."
+    },
+    {
+      "chapter": 15,
+      "page": 4,
+      "file": "ilustracoes/livro-2/c15-p04.jpg",
+      "scene": "Final cozy scene: Froguinho settled on rock indoors beside closed notebook and bedside lamp, small dream-cloud vignette of plain rock on tiny winner podium with medal; no face on rock, peaceful happy ending, no text.",
+      "passage": "Froguinho cochichou:\n\n— Não se preocupe. Ela já está sonhando.\n\n— Com o quê?\n\n— Com a revanche do campeonato.\n\nA Pedra venceu de novo.\n\nSem levantar da cama.\n\n**FIM… por hoje!**"
+    }
+  ],
+  "corrections": [
+    {
+      "prompt": "Use case illustration-story. Create one NEW landscape 3:2 storybook illustration matching this reference's indoor bedroom, color palette and exact leaf-green gold-eyed frog, same smooth gray rock, same handmade gouache painting texture. SCENE MUST BE ENTIRELY INSIDE THIS COZY BEDROOM, at a wooden desk. Frame tightly on the desk, notebook, frog and rock. Same warm desk lamp, framed wall sketches and wooden window frame can be behind. No exterior pond setting. No lake under the desk. No outdoor background except a small dark patch through a framed window. No leaves enclosing the foreground like an outdoor scene. Frog stays safely in the familiar indoor setting and never leaves home in this scene. Close over-the-desk viewpoint: child hands in blue sleeves open a spiral notebook to begin an investigation, drawing a magnifying glass and question mark pictograms. Froguinho sits on his gray rock beside the notebook, smiling as they wonder about a faraway croak. No printed text, labels, captions, watermark, or speech bubbles. The rock has no face. Show no other live animals.",
+      "source": "/Users/douglas/.codex/generated_images/01a0a738-df62-7c01-9992-43c9e89e70b8/exec-c924434b-0c77-4960-a807-1d2b3d7bbc6d.png"
+    },
+    {
+      "prompt": "Use case illustration-story. Create one NEW landscape 3:2 storybook illustration matching this reference's indoor bedroom, color palette and exact leaf-green gold-eyed frog, same smooth gray rock, same handmade gouache painting texture. SCENE MUST BE ENTIRELY INSIDE THIS COZY BEDROOM, at a wooden desk. Frame tightly on the desk, notebook, frog and rock. Same warm desk lamp, framed wall sketches and wooden window frame can be behind. No exterior pond setting. No lake under the desk. No outdoor background except a small dark patch through a framed window. No leaves enclosing the foreground like an outdoor scene. Frog stays safely in the familiar indoor setting and never leaves home in this scene. Close over-the-desk viewpoint: child hand in blue sleeve draws a large careful portrait of the very ordinary round gray rock in the spiral notebook. The real smooth gray rock and cheerful small Froguinho are clearly visible just behind, like a very solid witness posing for a drawing. No printed text, labels, captions, watermark, or speech bubbles. The rock has no face. Show no other live animals.",
+      "source": "/Users/douglas/.codex/generated_images/01a0a738-df62-7c01-9992-43c9e89e70b8/exec-d6526a46-4b6c-48ba-b39a-2147f9ba6b42.png"
+    },
+    {
+      "file": "c14-p04.jpg",
+      "prompt": "Create ONE new full-bleed LANDSCAPE 3:2 children's picture-book illustration (1536x1024 if possible), not a cover, not a collage. Use the supplied cover only as a CHARACTER AND ART STYLE REFERENCE. Keep Froguinho consistently leaf-green, large round amber-gold eyes, cream throat/belly, tiny round body, no clothes, no human ears. Handmade gouache and colored-pencil textures, rich greens and teal, warm honey light, polished charming storybook art for age 7. Pedra is always a smooth round gray natural rock, NEVER a face, eyes, mouth, arms or legs. A recurring cricket is brown with a crooked blue necktie; the friend rã is a slightly larger olive-brown frog; perereca is a slender bright-green tree frog with toe pads; snail has a cinnamon spiral shell. Include ONLY characters needed by the passage. Represent the reader as first-person point of view or a child's hand and notebook, not an identifiable portrait or full human character; medium warm-brown hands and blue sleeves if visible. Make this image specifically match the supplied passage; choose its most meaningful or funny moment. No text, no captions, no speech bubbles, no logos, no watermarks. Notebook/sign drawings can be pictures/icons but no lettering. No release, farewell, luggage or leaving-home imagery. Keep main scene within central 85%, clear readable silhouettes, not crowded. Compose as a new scene, never duplicate the cover.\nScene: Strictly INSIDE the child's bedroom at a wooden desk. Closeup of an open notebook showing pictorial comparisons of pond sounds by day (sun icon) and night (moon icon), a sketch of a clock and a sketch of the round stone. Froguinho on his gray rock in a shallow glass water habitat beside the notebook looks intrigued. Only Froguinho, no other animals. Cozy indoor walls in background. No outdoor pond or forest setting. No actual watch on the rock. The supplied image is style and character reference only.",
+      "source": "exec-f4ff89fc-fd5a-4334-bf5c-9891103cddd8.png"
+    }
+  ]
+}
