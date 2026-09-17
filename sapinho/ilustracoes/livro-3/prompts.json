@@ -1,0 +1,598 @@
+{
+  "tool": "image_gen (built-in)",
+  "reference": "../capa-livro-3.jpg",
+  "characterGuide": "Adam e Pepê: mesmo corte de cabelo curto e liso, tom de pele, idade e proporções. Adam veste azul; Pepê, laranja. Mesmo protagonismo visual.",
+  "coverPrompt": "Use case: illustration-story. Create a polished PORTRAIT 2:3 children's picturebook COVER ART with no title or lettering. Same gouache and colored pencil art style and green frog character as reference. Froguinho: leaf green, big gold eyes, cream belly, no clothing; gray round rock NEVER has eyes or face. Two equal-height 7-year-old boy friends of equal visual importance sit SIDE BY SIDE at a desk drawing a magical pond racing circuit in ONE big open notebook. Generic fictional boys, not portraits of real people: Adam has short dark brown hair, warm medium skin and teal blue shirt; Pepê has curly dark brown hair, warm medium skin and burnt orange shirt. SAME SIZE, both drawing, both smiling, neither leader. On the notebook a tiny whimsical paper Formula car SILVER BLACK TURQUOISE bearing clear number '12', plus an orange black paper car bearing '1', one red '44'. Notebook circuit comes alive as a miniature pond scene; true frog watches from gray rock in shallow clear glass habitat beside desk. A small checkered flag on notebook; playful, warm, welcoming. Warm ochre/green palette matches previous book. Leave upper quarter simple golden wall/sky for HTML title overlay. No other numbers, no real sponsors, no typography except specified numbers. This is imaginary paper racing, not animals being made to race in real life.",
+  "coverCorrection": "EDIT this cover. Preserve illustration composition, frog, notebook cars, EXACT numbers 12 1 44, colors, empty golden top and gouache style. Change ONLY the boys to look almost identical, like identical twin cartoon friends. Both must have the SAME SHORT STRAIGHT dark-brown haircut and fringe as the teal-shirt boy; remove ALL curls from the orange-shirt boy. Both have exactly same height, head size, face shape, warm medium skin tone, dark brown eyes, same age seven, body proportions and equally friendly smile. Orange-shirt boy must be exactly same apparent age and size as teal-shirt boy, with equally large working space on notebook. Both equally active drawing. ONLY difference between boys: teal-blue shirt for Adam, burnt-orange shirt for Pepê. No physical trait indicating hierarchy, neither cuter or taller. No extra text.",
+  "basePromptFirst11": "Use case: illustration-story. Create ONE landscape 3:2 (1536x1024) children's picturebook illustration. Gouache and colored pencil textures, warm gold, leafy green, teal, same style and SAME CHARACTERS as reference cover. Reference is character/style only, create new composition specifically matching the passage below. Adam and Pepê are equal age 7 and equal protagonists, never one taller or more important: Adam and Pepê have IDENTICAL short straight dark-brown haircuts with same fringe, IDENTICAL warm medium skin tone, IDENTICAL friendly faces, eye color, body size, height and proportions, like twins. The ONLY difference is clothing color: Adam teal-blue shirt, Pepê burnt-orange shirt. SAME haircut on both, absolutely NO curly hair on either boy. Neither boy looks older or cuter, stronger or bigger. Their poses may differ but BOTH equally active, and alternate left/right positions across pages. Both creative and active. Generic fictional cartoon boys, not likenesses. Froguinho leaf green frog, gold eyes, cream belly, NO clothing unless imaginary headset for commentator. Pedra is smooth gray ROUND ROCK, ABSOLUTELY NO face or eyes or limbs. Cricket brown with crooked BLUE tie; snail cinnamon shell. Actual frog is indoors on rock in shallow glass habitat, boys never handle it. Race is IMAGINATION emerging from an OPEN NOTEBOOK on desk; depict miniature magical world visibly rooted in paper notebook, or indoor scene as passage needs. No real animals being forced to race, no departure or release. Imaginary frog pilots drive playful papercraft Formula cars. Correct number/color mapping IF driver appears: Kimi Antonélio 12 silver-black-turquoise, three-leaf star emblem; Lando Nor-rãs 1 orange-black leaf-speed emblem; Max 3 blue-red-yellow two jumping frogs emblem; Charles 16 red-white and Hamilton 44 red-white jumping frog crest; Gabriel 5 titanium gray-black-red four bubbles emblem and small Brazilian flag. Do not swap numbers or colors. Few uncluttered details, no branded sponsor logos. Use simple fictional nature emblem shapes. ONLY specified numbers legible, avoid ALL other text/letters/captions. No collage, no split panels. Choose ONE specific funny or important moment from the exact passage. Boys equal prominence whenever both shown. Not every scene needs boys or cars. Keep central action readable at small size.",
+  "basePromptRemaining": "Children's story illustration, landscape 3:2, 1024x682, gouache/pencil matching reference. Adam BLUE shirt and Pepê ORANGE shirt: IDENTICAL short straight brown hair/fringe, faces, warm medium skin, height, size, age7. Only shirts differ. SAME visual importance; both active. Green frog Froguinho gold eyes cream belly; gray rock has NO face/limbs. Brown cricket crooked blue tie. Racing is an imaginary miniature pond on an OPEN NOTEBOOK, indoors with children; actual frog stays on rock in glass habitat. No release. Paper Formula cars only as passage needs. Exact numbers/colors: Kimi12 silver/black/turquoise; Lando1 orange/black; Max3 blue/red/yellow; Charles16 and Hamilton44 red/white; Gabriel5 gray/black/red. Nature emblems only, no real sponsors. ONE scene matching passage, few clear details, no captions, no speech bubbles or lettering except car numbers. Reference for characters/style, not composition.",
+  "pages": [
+    {
+      "chapter": 1,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c01-p01.jpg",
+      "passage": "Adam e Pedro voltaram do Autódromo Potenza com um barulho grudado na cabeça.\nVROOOOM!\nPedro era Pepê para os amigos. E, como Adam era seu melhor amigo, era Pepê quase o tempo inteiro.\nOs dois tinham ido ao autódromo com o pai de Adam. Agora, em casa, contavam o passeio ao Froguinho.\n— Quando os carros passavam, eu sentia vontade de narrar! — disse Adam.\n— Eu ficava imaginando o caminho até a próxima curva! — contou Pepê.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 1,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c01-p02.jpg",
+      "passage": "Froguinho escutava em cima da Pedra.\n— E os carros pulam?\n— Não é essa a ideia — respondeu Pepê.\n— Então têm muito a aprender com os sapos.\nAdam fez uma curva no ar com a mão. Pepê imitou o som do motor. A explicação virou uma corrida de dedos pela mesa.\nOs dedos pararam antes do recipiente do sapinho.\n— Aqui é a arquibancada — decidiu Adam.\n— E ninguém mexe no lugar do espectador — completou Pepê.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 1,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c01-p03.jpg",
+      "passage": "A Pedra não aplaudiu.\n— Ela prefere corridas paradas — explicou Froguinho.\nPepê abriu um caderno. Adam buscou lápis de cor.\n— E se a gente inventasse um campeonato? — perguntou Pepê.\n— Um Grande Prêmio dos Anfíbios! — respondeu Adam.\nFroguinho estufou o peito.\n— Já gostei do nome. Tem cara de coisa importante e ligeiramente molhada.\nOs amigos encostaram os punhos, rindo.\nA primeira pista daquela aventura não seria de asfalto.\nSeria de papel. E caberia entre os dois.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 2,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c02-p01.jpg",
+      "passage": "Adam desenhou uma curva comprida. Pepê acrescentou outra, redondinha.\n— Circuito Poten-Coax! — anunciaram juntos.\nEra uma homenagem ao Potenza, mas a pista inventada podia fazer coisas que uma pista de verdade não fazia: contornar cogumelos enormes, atravessar desenhos de nuvens e terminar perto de uma lagoa.\nAdam queria narrar a largada. Pepê também.\nPor um instante, os dois seguraram o mesmo lápis como se fosse um microfone.\nFroguinho observou aquilo com muita atenção.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 2,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c02-p02.jpg",
+      "passage": "— Esse microfone tem duas pontas — comentou.\nOs amigos se olharam.\nAdam sugeriu:\n— Eu narro uma parte, você narra outra.\n— E a gente troca de função em cada prova — completou Pepê.\nEscreveram o regulamento: **dois diretores; nenhum chefe do outro**.\nUm desenhava enquanto o outro conferia. Depois, trocavam.\nSe uma ideia não servisse, procurariam outra juntos.\n— E eu? — perguntou Froguinho.\n— Você pode dar palpites.\n— Excelente. Tenho vários sem usar desde ontem.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 2,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c02-p03.jpg",
+      "passage": "Pepê desenhou uma folha perto da curva. Adam fez uma faixa de chegada.\nQuando os dois começaram a narrar, a imaginação acordou.\nNo mundo da história, a folha ficou enorme. A faixa balançou. Surgiram barracas, bandeirinhas e um grilo de gravata azul torta.\n— Testando o som: cri, cri, um, dois!\nOs meninos riram, ainda sentados diante do caderno.\nO Froguinho verdadeiro continuava na Pedra, em casa.\nMas o Froguinho da aventura já queria saber onde ficava a cabine dos comentaristas.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 3,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c03-p01.jpg",
+      "passage": "Adam preparou os números. Pepê escolheu os lápis das equipes.\n— Nosso Kimi Antonélio vai usar o 12 — disse Adam.\nSeu carrinho de papel ficou prateado e preto, com detalhes verde-água. Na lateral, uma estrelinha feita de três folhas.\nPepê apresentou Lando Nor-rãs, número 1, num carro laranja e preto, com uma folha veloz desenhada no bico.\nNão eram os pilotos de verdade. Eram personagens inventados, com homenagens aos favoritos que os meninos acompanhavam na Fórmula 1.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 3,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c03-p02.jpg",
+      "passage": "Veio Max Veloz-tá-pulando, número 3, de azul, vermelho e amarelo. Seu símbolo mostrava dois sapinhos saltando.\nCharles Le-Coax, 16, e Hamilton, 44, chegaram de vermelho. Um sapinho empinado enfeitava a equipe Ferrãri.\nPor último, Gabriel Borbo-leto apareceu com o 5: carro cinza, preto e vermelho, quatro bolhas no símbolo e uma bandeirinha brasileira.\n— Da equipe Áudi-Água! — anunciou Pepê.\nAdam bateu palmas. Gostava de acompanhar quem estava começando e aprendendo.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 3,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c03-p03.jpg",
+      "passage": "No caderno, ninguém precisava torcer contra um amigo para torcer pelo seu favorito.\nAdam destacou o 12. Pepê conferiu todos os outros números, para nenhum piloto ficar esquecido.\nO grilo perguntou se os carros tinham motor.\n— Motor de imaginação — explicou Pepê.\n— Consome muito? — quis saber Froguinho.\n— Lápis — respondeu Adam.\nFroguinho olhou o apontador.\n— Então abasteçam. Esse campeonato está ficando perigosamente interessante.\nA Pedra continuou parada, economizando combustível com uma dedicação impressionante.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 4,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c04-p01.jpg",
+      "passage": "A primeira tarefa de Pepê foi desenhar os boxes, onde as equipes fariam suas paradas.\nAdam inventou as placas dos patrocinadores: Pedra Pneus, Oficina do Brejo e Folha Veloz.\n— Pedra Pneus vende pneus quadrados? — perguntou Froguinho.\n— Só no seu desenho — disse Adam.\n— Ótimo. Ninguém vai embora sem sacudir bastante.\nPepê percebeu que faltava um carro de segurança, daqueles que ajudam a organizar a pista quando é preciso diminuir o ritmo.",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 4,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c04-p02.jpg",
+      "passage": "Os dois olharam para o mesmo lugar.\nA Pedra.\n— Mas ela não anda! — lembrou Adam.\n— Por isso é tão segura — respondeu Froguinho.\nPepê desenhou uma luz amarela sobre uma cópia da Pedra no caderno. Adam fez uma plaquinha de largada ao lado.\nA Pedra verdadeira não ganhou tinta, rodinhas nem adesivos. A brincadeira acontecia no papel.\nNo desenho, o grilo ergueu sua bandeira.\n— Atenção! O carro de segurança está exatamente onde estava!",
+      "promptVariant": "basePromptFirst11",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 4,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c04-p03.jpg",
+      "passage": "A notícia causou grande tranquilidade.\nLando pediu autorização para ultrapassar.\n— A Pedra não está na pista — explicou Pepê.\n— Melhor ainda! — disse Froguinho. — Segurança à distância.\nAdam e Pepê decidiram que a Pedra seria a fiscal das pausas. Quando desenhassem sua luz acesa, todos esperariam.\nNão era preciso correr em todos os momentos.\nO grilo anotou isso, muito sério, na parte de trás de uma folha.\nDepois perguntou onde ficava a frente. Precisava organizar melhor sua papelada.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 5,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c05-p01.jpg",
+      "passage": "Chegou a hora do treino imaginário.\nAdam narrou enquanto Pepê guiava o lápis pelo traçado.\nKimi Antonélio saiu ligeiro. Lando acompanhou. Max anunciou que chegaria primeiro até ao começo da corrida.\nSó que a curva perto do cogumelo era apertada demais.\nUm carrinho passou. O seguinte rodopiou. O terceiro estacionou de costas.\nFroguinho bateu os olhos no desenho.\n— Inventaram uma curva ou um abraço de estrada?\nAdam e Pepê inclinaram a cabeça para o mesmo lado.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 5,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c05-p02.jpg",
+      "passage": "Pepê percebeu que o traçado não deixava espaço para os carrinhos virarem.\nAdam sugeriu apagar a parte de dentro e alargar a curva.\nTentaram novamente. Melhorou.\nEntão trocaram de função: Pepê narrou, Adam levou o lápis.\nDessa vez, foi possível contornar o cogumelo sem transformar a corrida numa reunião de para-choques.\n— Não precisava acelerar mais — concluiu Pepê.\n— Precisava olhar melhor — completou Adam.\nO grilo anunciou um recorde: três carros passaram sem pedir desculpas ao cogumelo.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 5,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c05-p03.jpg",
+      "passage": "Kimi ergueu a patinha, satisfeito. Naquele treino, tinha aprendido a diminuir antes da curva.\nFroguinho quis saber se o cogumelo ganharia uma medalha.\n— Por quê? — perguntou Adam.\n— Não saiu do lugar durante todo aquele susto.\nPepê desenhou uma estrelinha ao lado dele.\nA Pedra pareceu preocupada.\nEra forte concorrência na modalidade ficar parado.\nOs amigos deram risada e guardaram a primeira descoberta no caderno: quando uma tentativa não funciona, observar e mudar o plano pode ajudar mais do que insistir do mesmo jeito.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 6,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c06-p01.jpg",
+      "passage": "Na prova seguinte, os carrinhos descansaram nos boxes. Era a vez de conhecer os talentos dos pilotos do desenho.\nPepê inventou três caminhos: um salto entre folhas, uma passagem pela água e uma subida num galho.\nAdam desenhou largadas separadas.\nUma rã atravessou a água com facilidade. Uma perereca subiu pelo galho usando seus dedos. Um sapinho preferiu saltos curtos pelo chão.\n— Cada um encontrou um caminho diferente — observou Adam.\nFroguinho ajeitou a postura na cabine imaginária.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 6,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c06-p02.jpg",
+      "passage": "— Posso competir na prova de comentar sentado?\nPepê desenhou uma cadeira.\n— Você já está treinando.\nOs amigos descobriram que nem todos os anfíbios se movimentam exatamente do mesmo jeito. O corpo de cada um ajuda em certas tarefas, e os lugares onde vivem também variam.\nAdam percebeu que não seria justo medir uma subida com a régua do salto.\nPepê propôs que cada prova tivesse seu próprio desafio.\nO importante seria descobrir como cada participante resolvia o caminho.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 6,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c06-p03.jpg",
+      "passage": "A perereca chegou ao alto do galho. A rã completou sua travessia. O sapinho encontrou uma passagem entre duas raízes.\nNenhum precisava virar cópia do outro.\nAdam desenhou três símbolos de conquista. Pepê escreveu o que cada participante tinha conseguido.\nFroguinho pediu um quarto símbolo: excelente uso da cadeira.\n— Essa prova você inventou sozinho — lembrou Pepê.\n— Um talento raro — concordou o sapinho.\nNo mundo real, o caderno continuava aberto entre os amigos. Não tinham colocado nenhum bichinho para disputar corrida.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 7,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c07-p01.jpg",
+      "passage": "O campeonato imaginário chegou ao meio do dia.\nAdam coloriu um sol tão grande que quase precisou de outro lápis amarelo. Pepê desenhou a sombra das folhas ao lado da pista.\nUm dos sapinhos do desenho foi descansar ali.\n— Ele saiu da corrida? — perguntou o grilo.\n— Fez uma pausa — respondeu Pepê.\nAdam percebeu que os boxes não precisavam ter só ferramentas e pneus. Podiam ter cantinhos tranquilos, também.\nFroguinho levantou uma patinha de comentarista experiente.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 7,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c07-p02.jpg",
+      "passage": "— Solicito um box com sombra, silêncio e vista para a Pedra.\n— Vista para ela é fácil — disse Adam. — Ela não muda de endereço durante a transmissão.\nOs meninos lembraram que os anfíbios têm uma pele delicada. Para muitos deles, lugares úmidos e abrigados são importantes.\nPepê desenhou folhas largas. Adam fez um trecho de terra úmida, longe do sol forte.\nNo caderno, o piloto descansou por um tempo. A corrida esperou.\nNinguém perdeu pontos por precisar de uma pausa.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 7,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c07-p03.jpg",
+      "passage": "O grilo quis vender ingressos para assistir ao descanso.\n— Não precisa — disse Pepê.\n— Mas a Pedra faz isso o dia inteiro e tem público!\nFroguinho olhou para os dois amigos.\n— Ela tem presença de palco.\nAdam desenhou uma pequena placa de silêncio. Pepê virou a página devagar, como se não quisesse acordar o box inteiro.\nNa margem, registraram outra descoberta: às vezes, observar um animal é perceber o momento de deixá-lo tranquilo.\nA Pedra, naturalmente, concordou sem interromper a própria tranquilidade.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 8,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c08-p01.jpg",
+      "passage": "Gabriel Borbo-leto chegou para treinar com o carro número 5.\nA equipe Áudi-Água ainda estava aprendendo os melhores ajustes para o circuito inventado.\nNa primeira tentativa, Gabriel passou longe da curva.\nNa segunda, entrou melhor, mas precisou corrigir a saída.\nAdam marcou os dois trajetos com cores diferentes. Pepê comparou as linhas.\n— Aqui ele melhorou! — apontou Pepê.\n— Mesmo sem ser o mais rápido — percebeu Adam.\nFroguinho pediu uma lupa. Queria acompanhar aquela melhora de perto.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 8,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c08-p02.jpg",
+      "passage": "Na terceira tentativa, os meninos trocaram de tarefa. Pepê marcou o caminho; Adam comparou o resultado.\nGabriel fez a curva inteira sem sair do traçado.\n— Não foi o primeiro do campeonato — disse o grilo.\n— Foi melhor do que ele tinha conseguido antes — respondeu Pepê.\nAdam desenhou uma bandeirinha brasileira ao lado da conquista.\nTorcer podia ser isso também: acompanhar, perceber o esforço e comemorar uma melhora.\nGabriel sorriu no desenho. Ainda havia muito para aprender, e isso fazia parte da aventura.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 8,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c08-p03.jpg",
+      "passage": "Froguinho anunciou que a Pedra também tinha melhorado.\n— Em quê? — perguntaram os amigos.\n— Ontem ficou parada muito bem. Hoje ficou parada maravilhosamente.\nPepê tentou marcar a diferença com a régua.\nAdam tentou encontrar a diferença com a lupa.\nNão acharam nada.\n— É uma melhora muito discreta — explicou Froguinho.\nOs três riram. No caderno, o número 5 ganhou uma estrela pequena, com bastante espaço ao lado. Caberiam ali as próximas descobertas, sem precisar decidir agora quantas seriam.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 9,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c09-p01.jpg",
+      "passage": "Adam e Pepê fizeram dois rádios com desenhos de quadradinhos.\nNa história, um ficou com Adam e o outro com Pepê. Eles se revezariam orientando os pilotos.\n— Curva da folha depois da ponte! — avisou Adam.\n— Entendido! — respondeu Pepê, testando.\nO grilo quis ajudar.\n— Cri! Curva! Cri! Folha! Cri! Ponte! Cri! Almoço!\nHamilton, no carro 44, pediu que repetissem.\nCharles Le-Coax, no 16, perguntou qual parte da pista se chamava Almoço.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 9,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c09-p02.jpg",
+      "passage": "Froguinho aproximou a boca do rádio imaginário.\n— Atenção: este é um comunicado para comunicar que haverá comunicação.\nNinguém entendeu nada.\nPepê propôs uma regra: uma mensagem de cada vez, curta e clara.\nAdam acrescentou outra: quem escuta confirma o que entendeu.\nExperimentaram.\n— Parar no box de sombra — disse Pepê.\n— Entendido: box de sombra — respondeu Adam.\nAgora funcionava.\nNa lagoa da imaginação, os sons também podiam levar mensagens. Havia cantos diferentes; não era tudo o mesmo coaxar.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 9,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c09-p03.jpg",
+      "passage": "Os meninos ficaram um instante ouvindo os sons que chegavam pela janela de casa.\nDepois voltaram ao papel.\nAdam desenhou ondas pequenas para um som suave. Pepê fez ondas maiores para outro mais forte.\nNão precisavam descobrir tudo naquela tarde. Podiam começar percebendo diferenças.\nO grilo testou seu rádio novamente.\n— Cri.\nSilêncio.\n— Só isso? — perguntou Froguinho.\n— Mensagem curta.\n— E o que significa?\n— Que estou seguindo o regulamento.\nPela primeira vez, ninguém pediu que ele repetisse.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 10,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c10-p01.jpg",
+      "passage": "Pepê narrava a aproximação dos carrinhos. Adam acompanhava o mapa quando percebeu um detalhe no desenho.\nUm caracol estava atravessando a pista.\nEra um caracol imaginário, com uma casa espiral nas costas e absolutamente nenhuma pressa.\n— Bandeira amarela! — disseram os dois.\nPepê desenhou o aviso. Adam interrompeu o movimento dos carrinhos de papel.\nMax perguntou quanto tempo levaria.\nO caracol respondeu:\n— O tempo de chegar ao outro lado.\nEra uma previsão muito precisa, embora pouco útil para um cronômetro.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 10,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c10-p02.jpg",
+      "passage": "Froguinho chamou o carro de segurança.\nA Pedra permaneceu no posto.\n— Já está trabalhando — explicou.\nAdam pensou numa passagem que contornasse o caminho do caracol. Pepê percebeu onde ela poderia encontrar a pista outra vez.\nJuntos, desenharam um desvio largo.\nNinguém precisaria empurrar o visitante, tirar sua casa do lugar ou obrigá-lo a correr.\nO campeonato era uma brincadeira dos pilotos. O caracol estava apenas atravessando o seu próprio caminho.\nOs dois caminhos podiam existir sem virar uma confusão.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 10,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c10-p03.jpg",
+      "passage": "Quando o caracol terminou a travessia, os meninos baixaram a bandeira.\n— Ele ganhou? — perguntou Lando.\n— Chegou onde queria — disse Pepê.\n— E nós aprendemos a esperar — acrescentou Adam.\nFroguinho achou que aquilo merecia uma entrevista.\n— Como se sente depois dessa travessia?\n— Do outro lado — respondeu o caracol.\nO grilo anotou a declaração histórica.\nOs amigos riram tanto que precisaram apoiar o caderno na mesa. Até a Pedra pareceu mais satisfeita, embora continuasse com a mesma expressão de pedra.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 11,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c11-p01.jpg",
+      "passage": "No circuito de papel, uma nuvem apareceu.\nFoi Adam quem a desenhou. Pepê acrescentou gotas, primeiro pequenas, depois bem redondas.\n— Vai chover na corrida! — anunciou o grilo.\nO traçado ficou escorregadio na imaginação dos amigos. Kimi diminuiu. Lando manteve espaço. Charles e Hamilton esperaram uma passagem ficar livre.\nFroguinho abriu uma folha como guarda-chuva.\n— Previsão do tempo: água caindo de cima.\n— Você acabou de olhar para cima — observou Pepê.\n— Trabalho de campo — respondeu ele.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 11,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c11-p02.jpg",
+      "passage": "Pepê propôs interromper o treino para rever o caminho.\nAdam concordou e apagou uma curva que terminava perto demais da água.\nOs dois a redesenharam mais longe. Depois trocaram os carrinhos de posição para testar o novo traçado.\nUm plano bom também pode precisar de mudança quando as condições mudam.\nNo desenho da lagoa, as gotas alcançavam folhas, terra e pequenas poças.\nOs amigos repararam que a água não ficava em um lugar só. O cenário inteiro parecia participar daquela chuva.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 11,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c11-p03.jpg",
+      "passage": "O grilo tentou proteger a gravata com uma pétala.\nFroguinho sugeriu um guarda-chuva maior.\nA Pedra não pediu nada. No caderno, já estava debaixo de uma folha.\nAdam desenhou uma seta indicando o novo caminho. Pepê conferiu se todos poderiam enxergá-la.\nSomente depois deram o sinal para continuar.\n— Ganhar tempo é importante — disse Pepê.\n— Mas entender a pista vem antes — completou Adam.\nFroguinho abriu um sorriso.\n— Entendi. Vou estudar essa folha. Principalmente a parte que não pinga no meu nariz.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 12,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c12-p01.jpg",
+      "passage": "Faltava pouco para a grande prova quando Adam encontrou um problema.\nA seta do novo caminho apontava para um canto vazio do papel.\nPepê virou o caderno. Olhou de perto. Olhou de longe.\nA curva seguinte tinha desaparecido!\n— Temos um mistério de trânsito — anunciou Froguinho.\nO grilo suspeitou do caracol.\n— Ele levou a curva na casa?\n— Uma casa pequena demais para isso — disse Pepê.\nAdam percebeu que havia uma marca de borracha bem no lugar do sumiço.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 12,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c12-p02.jpg",
+      "passage": "Eles tinham apagado aquele trecho ao mudar o plano da chuva, sem notar que duas partes da pista ficaram separadas.\nAdam lembrou onde a primeira curva terminava.\nPepê encontrou o ponto de onde a reta recomeçava.\nMas ligar os pontos com uma linha reta atravessaria o box de sombra.\nEntão Pepê sugeriu contornar as folhas. Adam percebeu como deixar a curva larga o bastante.\nOs dois desenharam, conferiram e corrigiram juntos.\nA solução precisava das duas observações. Nenhuma, sozinha, completava o caminho.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 12,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c12-p03.jpg",
+      "passage": "O circuito ficou pronto de novo, sem ocupar o descanso dos pilotos.\nFroguinho declarou que trabalharia como investigador.\n— Já descobri uma coisa importante.\n— O quê? — perguntaram os amigos.\n— A Pedra não levou a curva. Tenho certeza de que ela não saiu daqui.\nEra um argumento difícil de derrubar.\nAdam entregou a borracha a Pepê. Pepê devolveu o lápis a Adam. Os dois fizeram juntos o último teste.\nDessa vez, o caminho saía da largada, passava por todas as descobertas e voltava inteiro à chegada.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 13,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c13-p01.jpg",
+      "passage": "No caderno, cinco luzes vermelhas apareceram sobre a largada.\nAdam narrou os pilotos. Pepê conferiu o caminho. Na metade da prova, trocariam.\nNúmero 12: pronto. Número 1: pronto. Número 3: pronto. Números 16, 44 e 5: prontos!\nA Pedra não respondeu à chamada.\n— Está pronta desde terça-feira — explicou Froguinho.\nAs luzes se apagaram.\nOs carrinhos imaginários partiram!\nKimi fez a primeira curva com cuidado. Lando encontrou espaço. Max segurou a vontade de disputar a mesma passagem ao mesmo tempo.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 13,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c13-p02.jpg",
+      "passage": "Pepê assumiu a narração. Adam passou a conferir as próximas curvas.\nCharles e Hamilton cruzaram o trecho estreito um de cada vez. Gabriel repetiu o movimento que tinha aprendido no treino.\nQuando surgiu a bandeira da pausa, todos respeitaram.\nO grilo quase anunciou um recorde de gritaria, mas lembrou do rádio e falou uma coisa de cada vez.\nCada descoberta dos capítulos anteriores estava ajudando agora.\nAté o caminho do caracol permanecia livre, porque os amigos tinham mantido o desvio no desenho.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 13,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c13-p03.jpg",
+      "passage": "Na volta final, Kimi Antonélio cruzou primeiro a faixa daquela corrida inventada.\nAdam comemorou o número 12. Pepê ergueu a bandeira quadriculada. Depois trocaram: Pepê anunciou a chegada e Adam recebeu os outros pilotos.\nGabriel completou sua melhor volta. Lando, Max, Charles e Hamilton também tinham histórias para contar.\nFroguinho pediu silêncio para ouvir o motor da Pedra.\nNão houve som nenhum.\n— Impressionante — disse ele. — Terminou a prova sem gastar uma gota.\nA comemoração precisou parar por alguns segundos, porque os dois diretores estavam rindo.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 14,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c14-p01.jpg",
+      "passage": "Adam desenhou um pódio com três degraus.\nPepê preparou as medalhas de papel.\nHavia uma para a vitória de Kimi, outra para a melhora de Gabriel, outra para uma mensagem clara pelo rádio. E ainda as descobertas sobre pausas, caminhos e talentos diferentes.\nLogo faltou lugar.\nFroguinho examinou o problema.\n— Podemos empilhar os pilotos?\n— Não — responderam os dois.\n— Perguntei só para ajudar.\nAdam olhou o espaço em volta do pódio. Pepê olhou a quantidade de medalhas.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 14,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c14-p02.jpg",
+      "passage": "— Podemos fazer uma roda — sugeriu Adam.\n— Assim todos conseguem ver uns aos outros — completou Pepê.\nO vencedor continuou com sua taça. Comemorar outras conquistas não apagava a vitória dele.\nOs amigos desenharam a roda e distribuíram as descobertas.\nPara a Pedra, fizeram uma medalha especial: **melhor desempenho sem sair do lugar**.\nO grilo quis pendurá-la no pescoço da campeã.\nFoi quando percebeu um pequeno detalhe.\nA campeã não tinha pescoço.\n— Deixe ao lado — orientou Froguinho. — Ela é discreta.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 14,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c14-p03.jpg",
+      "passage": "Pepê fez duas medalhas do mesmo tamanho para os diretores. Adam escreveu nelas: equipe de grandes ideias.\nUm não tinha organizado a aventura sozinho. O outro não tinha apenas acompanhado.\nOs dois tinham criado, errado, observado e encontrado soluções.\n— Falta sua medalha, Froguinho — disse Pepê.\n— Pela narração? — perguntou Adam.\n— Pelos comentários?\nO sapinho pensou.\n— Por ser Froguinho.\nParecia uma boa resposta.\nNo caderno, a medalha ficou perto da cabine. Em casa, o sapinho verdadeiro não precisava trabalhar para merecer a atenção dos amigos.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 15,
+      "page": 1,
+      "file": "ilustracoes/livro-3/c15-p01.jpg",
+      "passage": "Adam e Pepê olharam o caderno inteiro, da primeira curva à roda de medalhas.\nTinham inventado uma corrida. Também tinham descoberto por que existiam sombras, pausas e caminhos diferentes naquela lagoa de papel.\n— Amanhã podemos inventar outra pista — disse Adam.\n— Depois de olhar melhor os lugares dela — sugeriu Pepê.\nOs dois concordaram.\nNão precisavam resolver todas as curiosidades de uma vez. Algumas podiam ficar guardadas numa página nova, esperando outro dia e mais dois lápis apontados.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    },
+    {
+      "chapter": 15,
+      "page": 2,
+      "file": "ilustracoes/livro-3/c15-p02.jpg",
+      "passage": "Pepê desenhou uma folha pequena no canto. Adam desenhou uma gota ao lado.\nEntão fecharam o caderno juntos.\nO barulho dos motores imaginários desapareceu.\nFroguinho continuava em casa, sobre a Pedra. Os amigos ficaram olhando, sem pedir que saltasse ou fizesse alguma apresentação.\nDepois de tantos comentários na história, era engraçado vê-lo quietinho de verdade.\n— Acho que ele está descansando — disse Adam.\nPepê baixou a voz.\n— Vamos deixar o campeão da própria tarde em paz.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Orange boy left, blue boy right."
+    },
+    {
+      "chapter": 15,
+      "page": 3,
+      "file": "ilustracoes/livro-3/c15-p03.jpg",
+      "passage": "Antes de guardar os lápis, Adam e Pepê prepararam uma última plaquinha de papel.\nNão colocaram dentro do recipiente. Deixaram ao lado do caderno, como lembrança da brincadeira.\nNela estava escrito: **Grande Prêmio dos Anfíbios — direção de Adam e Pepê**.\nNa imaginação, Froguinho leu e aprovou.\n— Só faltou informar a velocidade máxima da Pedra.\nOs amigos responderam juntos:\n— Zero!\n— Exatamente — disse o sapinho. — E nunca levou uma multa.\nA tarde terminou com risadas. A curiosidade dos dois, essa ainda tinha muitas voltas pela frente.",
+      "promptVariant": "basePromptRemaining",
+      "composition": "Blue boy left, orange boy right."
+    }
+  ],
+  "generatedFiles": [
+    {
+      "pageIndex": 2,
+      "generatedFile": "exec-f564deec-3c80-4070-8c20-6e8c8fe69b39.png",
+      "file": "ilustracoes/livro-3/c01-p03.jpg"
+    },
+    {
+      "pageIndex": 4,
+      "generatedFile": "exec-8d33a367-aed7-4370-b38e-17a79f16e4e9.png",
+      "file": "ilustracoes/livro-3/c02-p02.jpg"
+    },
+    {
+      "pageIndex": 0,
+      "generatedFile": "exec-db0cd424-53e7-4535-ad7e-64a7d9100c75.png",
+      "file": "ilustracoes/livro-3/c01-p01.jpg"
+    },
+    {
+      "pageIndex": 3,
+      "generatedFile": "exec-a06759ab-ca5c-4910-a5de-17130aa30eb6.png",
+      "file": "ilustracoes/livro-3/c02-p01.jpg"
+    },
+    {
+      "pageIndex": 7,
+      "generatedFile": "exec-b9bd00a4-6495-4e3d-a3f3-728de95374b2.png",
+      "file": "ilustracoes/livro-3/c03-p02.jpg"
+    },
+    {
+      "pageIndex": 6,
+      "generatedFile": "exec-6fdbad0c-bb7c-40ae-b95e-553ab44caafa.png",
+      "file": "ilustracoes/livro-3/c03-p01.jpg"
+    },
+    {
+      "pageIndex": 8,
+      "generatedFile": "exec-259ca73e-a2a8-4317-89c2-434e3a9f96f1.png",
+      "file": "ilustracoes/livro-3/c03-p03.jpg"
+    },
+    {
+      "pageIndex": 10,
+      "generatedFile": "exec-6e841b64-0a61-4936-ae04-9dc97a2fba7b.png",
+      "file": "ilustracoes/livro-3/c04-p02.jpg"
+    },
+    {
+      "pageIndex": 1,
+      "generatedFile": "exec-42a4d172-7596-4a79-8b36-03921e40c777.png",
+      "file": "ilustracoes/livro-3/c01-p02.jpg"
+    },
+    {
+      "pageIndex": 5,
+      "generatedFile": "exec-6445682f-07a6-40a8-97b0-88930a1f0e7b.png",
+      "file": "ilustracoes/livro-3/c02-p03.jpg"
+    },
+    {
+      "pageIndex": 9,
+      "generatedFile": "exec-adb03c50-c4b1-46cd-af15-ac9e0efaa227.png",
+      "file": "ilustracoes/livro-3/c04-p01.jpg"
+    },
+    {
+      "pageIndex": 11,
+      "generatedFile": "exec-78058cb9-2b69-4167-8778-ed0d1f5e1c27.png",
+      "file": "ilustracoes/livro-3/c04-p03.jpg"
+    },
+    {
+      "pageIndex": 14,
+      "generatedFile": "exec-fa463412-e9b7-4e09-b9ff-d99750c671e0.png",
+      "file": "ilustracoes/livro-3/c05-p03.jpg"
+    },
+    {
+      "pageIndex": 13,
+      "generatedFile": "exec-54888ad2-9676-452e-bc67-24455e0cad50.png",
+      "file": "ilustracoes/livro-3/c05-p02.jpg"
+    },
+    {
+      "pageIndex": 12,
+      "generatedFile": "exec-7f348e21-f6c3-407c-9a20-36755225261c.png",
+      "file": "ilustracoes/livro-3/c05-p01.jpg"
+    },
+    {
+      "pageIndex": 15,
+      "generatedFile": "exec-364a9498-6b1b-409e-8e94-8b132b013b0b.png",
+      "file": "ilustracoes/livro-3/c06-p01.jpg"
+    },
+    {
+      "pageIndex": 17,
+      "generatedFile": "exec-8f71b6cf-e100-4391-97b3-136fc95c8c9f.png",
+      "file": "ilustracoes/livro-3/c06-p03.jpg"
+    },
+    {
+      "pageIndex": 16,
+      "generatedFile": "exec-0b6c6b2d-db7d-4e58-90c9-59bfa796a296.png",
+      "file": "ilustracoes/livro-3/c06-p02.jpg"
+    },
+    {
+      "pageIndex": 19,
+      "generatedFile": "exec-3b7d6006-fa86-43cc-a554-8d0378658359.png",
+      "file": "ilustracoes/livro-3/c07-p02.jpg"
+    },
+    {
+      "pageIndex": 18,
+      "generatedFile": "exec-37abf2aa-48e5-4347-a06d-1257113157f3.png",
+      "file": "ilustracoes/livro-3/c07-p01.jpg"
+    },
+    {
+      "pageIndex": 22,
+      "generatedFile": "exec-5afdf500-adec-43fb-8a7b-50d5774e24c4.png",
+      "file": "ilustracoes/livro-3/c08-p02.jpg"
+    },
+    {
+      "pageIndex": 20,
+      "generatedFile": "exec-0a781b10-3a2c-4d2e-a102-0fd3cded6640.png",
+      "file": "ilustracoes/livro-3/c07-p03.jpg"
+    },
+    {
+      "pageIndex": 21,
+      "generatedFile": "exec-98ada787-e294-41bb-8ec1-9e0a2f98d4e3.png",
+      "file": "ilustracoes/livro-3/c08-p01.jpg"
+    },
+    {
+      "pageIndex": 24,
+      "generatedFile": "exec-7f605f88-692a-4549-a772-23e907df1571.png",
+      "file": "ilustracoes/livro-3/c09-p01.jpg"
+    },
+    {
+      "pageIndex": 26,
+      "generatedFile": "exec-86126716-4c13-48e8-ae65-9dc278abede0.png",
+      "file": "ilustracoes/livro-3/c09-p03.jpg"
+    },
+    {
+      "pageIndex": 23,
+      "generatedFile": "exec-18adefa6-2f04-4409-b386-8e2bc482c688.png",
+      "file": "ilustracoes/livro-3/c08-p03.jpg"
+    },
+    {
+      "pageIndex": 27,
+      "generatedFile": "exec-526f4e8e-f15a-4c22-acd8-b43c55891532.png",
+      "file": "ilustracoes/livro-3/c10-p01.jpg"
+    },
+    {
+      "pageIndex": 25,
+      "generatedFile": "exec-0baae6ee-e20b-4d9d-b455-51350cf56165.png",
+      "file": "ilustracoes/livro-3/c09-p02.jpg"
+    },
+    {
+      "pageIndex": 29,
+      "generatedFile": "exec-99a5722f-c388-4ab3-905f-bc16beb6de9e.png",
+      "file": "ilustracoes/livro-3/c10-p03.jpg"
+    },
+    {
+      "pageIndex": 28,
+      "generatedFile": "exec-0cc1b956-ab06-4419-bcfc-78e375f8db8b.png",
+      "file": "ilustracoes/livro-3/c10-p02.jpg"
+    },
+    {
+      "pageIndex": 30,
+      "generatedFile": "exec-f5539ce5-8240-457c-9f0e-606432cc3a61.png",
+      "file": "ilustracoes/livro-3/c11-p01.jpg"
+    },
+    {
+      "pageIndex": 32,
+      "generatedFile": "exec-3c39d975-53a1-45e0-ad45-67cc8e134b40.png",
+      "file": "ilustracoes/livro-3/c11-p03.jpg"
+    },
+    {
+      "pageIndex": 31,
+      "generatedFile": "exec-c9074409-8138-4ed6-9726-3ce282912c8a.png",
+      "file": "ilustracoes/livro-3/c11-p02.jpg"
+    },
+    {
+      "pageIndex": 33,
+      "generatedFile": "exec-f4a7dcdf-7a55-4d73-9159-12b9cdd4a406.png",
+      "file": "ilustracoes/livro-3/c12-p01.jpg"
+    },
+    {
+      "pageIndex": 36,
+      "generatedFile": "exec-6e0e3d6c-a861-4c9e-920e-30db55fc1065.png",
+      "file": "ilustracoes/livro-3/c13-p01.jpg"
+    },
+    {
+      "pageIndex": 34,
+      "generatedFile": "exec-8e79a47a-e235-479a-a286-ef3e4163a526.png",
+      "file": "ilustracoes/livro-3/c12-p02.jpg"
+    },
+    {
+      "pageIndex": 37,
+      "generatedFile": "exec-cd66adea-9fb7-44f4-a40b-0311f486da04.png",
+      "file": "ilustracoes/livro-3/c13-p02.jpg"
+    },
+    {
+      "pageIndex": 38,
+      "generatedFile": "exec-1dd951f8-a6cf-4196-abd1-ed389e1caa7d.png",
+      "file": "ilustracoes/livro-3/c13-p03.jpg"
+    },
+    {
+      "pageIndex": 35,
+      "generatedFile": "exec-e49271c9-8d35-4a5e-9c16-69fec149eadd.png",
+      "file": "ilustracoes/livro-3/c12-p03.jpg"
+    },
+    {
+      "pageIndex": 40,
+      "generatedFile": "exec-44d7e729-00c4-4281-812c-72d33c482075.png",
+      "file": "ilustracoes/livro-3/c14-p02.jpg"
+    },
+    {
+      "pageIndex": 42,
+      "generatedFile": "exec-3a2fccae-0c84-4375-b013-21c4bee62394.png",
+      "file": "ilustracoes/livro-3/c15-p01.jpg"
+    },
+    {
+      "pageIndex": 39,
+      "generatedFile": "exec-ae787b35-7f85-411c-8170-cbe834e63dfe.png",
+      "file": "ilustracoes/livro-3/c14-p01.jpg"
+    },
+    {
+      "pageIndex": 43,
+      "generatedFile": "exec-4bbcf057-48ce-4a51-b38c-53bb35f67914.png",
+      "file": "ilustracoes/livro-3/c15-p02.jpg"
+    },
+    {
+      "pageIndex": 41,
+      "generatedFile": "exec-e23024db-e7c9-438c-aeb2-574c14c6e073.png",
+      "file": "ilustracoes/livro-3/c14-p03.jpg"
+    },
+    {
+      "pageIndex": 44,
+      "generatedFile": "exec-5031be9f-1efa-4e65-b293-184bc52407c7.png",
+      "file": "ilustracoes/livro-3/c15-p03.jpg"
+    }
+  ]
+}
